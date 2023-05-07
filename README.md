@@ -5,7 +5,7 @@ I created a program that creates a base class of Employee and child class of Sal
 these classes you can calculate how much money they would earn each week before and after state and federal tax withholdings
 based on what their wage is and how many hours they worked or based on their salary.
 
-YouTube Demonstration: 
+YouTube Demonstration: https://youtu.be/dDIzPAAIVuo
 
 Used IntelliJ Community for my IDE, and used the ArrayList Library in Java.
 
